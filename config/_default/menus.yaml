@@ -1,0 +1,70 @@
+leftnav:
+- identifier: ec2313d3-69de-47df-dd15-cbe8027159c3
+  name: Introduction
+  pageRef: /pages/introduction
+  weight: 10
+- identifier: bec96c2a-820c-0001-3acc-6c35fa9d840f
+  name: Logistics
+  pageRef: /pages/logistics
+  weight: 20
+- identifier: 69676efe-fd0b-844f-5e6f-8555a8c9f2ef
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 30
+- identifier: 9c16b3d0-6c00-4a25-9ead-ed6fdcc8f91b
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 40
+- identifier: 36bb3771-5bb7-c4c1-610a-c4293a1af273
+  name: Staffing the Course
+  pageRef: /pages/staffing-the-course
+  weight: 50
+- identifier: f21a7861-47b6-486b-a460-278ead9efa0a
+  name: Mathematical Work
+  pageRef: /pages/mathematical-work
+  weight: 60
+- identifier: 1790141c-cb89-cb9c-3927-269166af5cac
+  name: Teamwork
+  pageRef: /pages/teamwork/
+  weight: 70
+- identifier: cc51014f-c167-ecae-32e3-b7759a8b851d
+  name: Writing
+  pageRef: /pages/writing/
+  weight: 80
+- identifier: 85842b7f-8825-8ff1-fd12-52420523d316
+  name: Presentations
+  pageRef: /pages/presentations/
+  weight: 90
+- identifier: 6d3bec05-d850-9c0b-0589-06d3c7fcaed0
+  name: Grading
+  pageRef: /pages/grading
+  weight: 100
+- identifier: bbed0b6c-69d3-1968-3035-f0a8f3754621
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 110
+- identifier: 2edd45cf-e176-acaf-956e-1caebc5239e0
+  name: Forming Teams
+  pageRef: /pages/teamwork/forming-teams
+  parent: 1790141c-cb89-cb9c-3927-269166af5cac
+  weight: 10
+- identifier: 8ec3e99d-a6f3-dfc0-93ba-e5789366aed0
+  name: Revision and Feedback
+  pageRef: /pages/writing/revision-and-feedback
+  parent: cc51014f-c167-ecae-32e3-b7759a8b851d
+  weight: 10
+- identifier: 17bb2e38-7431-d4ad-29c7-4334834f27fa
+  name: Sample Student Papers
+  pageRef: /pages/writing/sample-student-papers
+  parent: cc51014f-c167-ecae-32e3-b7759a8b851d
+  weight: 20
+- identifier: 4c6b7d2d-d051-2066-919e-1154a5f1910a
+  name: Practice and Feedback
+  pageRef: /pages/presentations/practice-and-feedback
+  parent: 85842b7f-8825-8ff1-fd12-52420523d316
+  weight: 10
+- identifier: fa0f8ae6-a7c9-e08b-92ca-77cdebecb9ed
+  name: Sample Student Presentation
+  pageRef: /pages/presentations/sample-student-presentation
+  parent: 85842b7f-8825-8ff1-fd12-52420523d316
+  weight: 20
