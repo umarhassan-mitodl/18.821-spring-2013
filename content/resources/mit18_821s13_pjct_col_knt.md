@@ -4,8 +4,6 @@ description: This resource contains information regarding coloring knots.
 file: /courses/18-821-project-laboratory-in-mathematics-spring-2013/2cda7541f9414a29bcc72e8dc8a3385e_MIT18_821S13_pjct_col_knt.pdf
 file_size: 111560
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

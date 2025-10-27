@@ -2,8 +2,6 @@
 content_type: page
 description: In this section, Prof. Haynes Miller and Susan Ruff describe the criteria
   for presentations and the components of the presentation workshop.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Presentations

@@ -5,8 +5,6 @@ description: This resource contains a presentation delivered for "New Directions
 file: /courses/18-821-project-laboratory-in-mathematics-spring-2013/4939ffc0002c38e3cf9a046667203e21_MIT18_821S13_MtHolyoke_prs.pdf
 file_size: 261853
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -4,8 +4,6 @@ description: This resource contains information regarding MtHolyoke presentation
 file: /courses/18-821-project-laboratory-in-mathematics-spring-2013/025c341c3f6bdcd9ab93e897f034ec6a_MIT18_821S13_NeXT_prs.pdf
 file_size: 657806
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

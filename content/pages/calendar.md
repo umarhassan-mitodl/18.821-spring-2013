@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the schedule of course activities, workshops, presentations,
   and assignment due dates, and a note on disruptions to the Spring 2013 schedule.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

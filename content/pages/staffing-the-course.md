@@ -3,8 +3,6 @@ content_type: page
 description: In this section, Prof. Haynes Miller and Susan Ruff describe the responsibilities
   of each member of the course team, as well as the rationale for changing the course
   staff from term to term.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Staffing the Course
@@ -17,7 +15,7 @@ The course is staffed with:
 
 *   One lead instructor, always a faculty member from the mathematics department
 *   Two co-instructors, typically one postdoctoral researcher and one graduate student from the mathematics department
-*   One communication instructor with background in mathematics and mathematical communication, from [Writing Across the Curriculum](http://cmsw.mit.edu/education/writing-across-the-curriculum/)
+*   One communication instructor with background in mathematics and mathematical communication, from {{% resource_link "ddf3fc46-f12f-4e17-8510-6e4d241504be" "Writing Across the Curriculum" %}}
 
 Having four instructors for a course with 27 students is a serious commitment of resources, but this allows us to provide students with personal mentorship, with encouragement and support as they confront the uncertainties of research, and with feedback and guidance on their presentations and papers.
 

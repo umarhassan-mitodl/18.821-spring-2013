@@ -4,8 +4,6 @@ description: Background image of introductory video.
 file: /courses/18-821-project-laboratory-in-mathematics-spring-2013/621ae3f63d182036e64588b094f37045_MIT18_821S13_proj_lab_bg.jpg
 file_size: 105042
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

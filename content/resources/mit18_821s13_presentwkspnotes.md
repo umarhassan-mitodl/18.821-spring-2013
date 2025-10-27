@@ -5,8 +5,6 @@ description: This resource contains notes on the presentations delivered during 
 file: /courses/18-821-project-laboratory-in-mathematics-spring-2013/b416e04e69c8f05549acfa3af11bef22_MIT18_821S13_presentwkspnotes.pdf
 file_size: 53717
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

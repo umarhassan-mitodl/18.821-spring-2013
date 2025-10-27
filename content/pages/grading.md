@@ -2,8 +2,6 @@
 content_type: page
 description: In this section, Prof. Haynes Miller and Susan Ruff describe their approach
   to grading and the development of grading rubrics for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Grading
@@ -156,7 +154,7 @@ Select student response sheets are available on the {{% resource_link 4c6b7d2d-d
 
 ### Fall 2013
 
-In Fall 2013, Prof. Larry Guth, who was the lead instructor, and Susan developed new rubrics for the course. These rubrics were built upon an [extensive list of characteristics of effective mathematics communication](http://mathcomm.org/general-principles-of-communicating-math/jmm-2013-minicourse-teaching-and-assessing-math-communication/) derived from the Spring 2013 course and earlier versions of the subject, with ideas emerging from a workshop conducted by Susan, Joel Lewis (co-instructor in Spring 2011, now at the University of Minnesota) and Mia Minnes (UCSD) at the 2013 Joint Mathematics Meetings.
+In Fall 2013, Prof. Larry Guth, who was the lead instructor, and Susan developed new rubrics for the course. These rubrics were built upon an {{% resource_link "fb485ee1-f749-4bc8-b72c-bb4a81daa0d2" "extensive list of characteristics of effective mathematics communication" %}} derived from the Spring 2013 course and earlier versions of the subject, with ideas emerging from a workshop conducted by Susan, Joel Lewis (co-instructor in Spring 2011, now at the University of Minnesota) and Mia Minnes (UCSD) at the 2013 Joint Mathematics Meetings.
 
 {{% resource_link a54572cb-41e1-57d0-d066-8d21b9b4e810 "Fall 2013 Paper Rubric (PDF)" %}} (Courtesy of Susan Ruff and Prof. Larry Guth. Used with permission.)
 

@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides a brief introduction to this course, the first
   day of class, and the content covered in the following course pages.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Introduction

@@ -4,8 +4,6 @@ description: This file contains information regarding notes on writing mathemati
 file: /courses/18-821-project-laboratory-in-mathematics-spring-2013/f6ac4c7f88f9d3940b6d8511ef55e386_MIT18_821S13_writingnotes.pdf
 file_size: 191852
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

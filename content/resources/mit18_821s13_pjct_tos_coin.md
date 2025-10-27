@@ -4,8 +4,6 @@ description: This resource contains information regarding tossing a coin.
 file: /courses/18-821-project-laboratory-in-mathematics-spring-2013/613878540f5c3dbc745b1a28643d3d40_MIT18_821S13_pjct_tos_coin.pdf
 file_size: 135933
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -4,8 +4,6 @@ description: This file contains information regarding an annotated journal artic
 file: /courses/18-821-project-laboratory-in-mathematics-spring-2013/7c76f6f1dfa05c17e5b5adf9545e5944_MIT18_821S13_annotatedjrnl.pdf
 file_size: 728491
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

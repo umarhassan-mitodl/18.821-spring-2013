@@ -2,8 +2,6 @@
 content_type: page
 description: In this section, Prof. Haynes Miller and Susan Ruff describe the criteria
   for good mathematical writing and the components of the writing workshop.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Writing
@@ -63,13 +61,13 @@ The following PDF, TeX, and Beamer samples guide students to present their work 
 
 The following resources are provided to help students learn and use LaTeX.
 
-LaTeX-Project. "[Obtaining LaTeX](http://www.latex-project.org/ftp.html)." August 28, 2009.
+LaTeX-Project. "{{% resource_link "06e2762f-dcfc-4173-9e2a-2627a4714c5c" "Obtaining LaTeX" %}}." August 28, 2009.
 
 Downes, Michael. ["Short Math Guide for LaTeX." (PDF)](ftp://ftp.ams.org/pub/tex/doc/amsmath/short-math-guide.pdf) _American Mathematical Society_. Version 1.09. March 22, 2002.
 
-Oetiker, Tobias, Hubert Partl, et al. ["The Not So Short Introduction to LaTeX 2ε." (PDF)](http://tobi.oetiker.ch/lshort/lshort.pdf) Version 5.01. April 06, 2011.
+Oetiker, Tobias, Hubert Partl, et al. {{% resource_link "2b1c16f4-dc67-4039-b8fe-f8147f6b9dac" "\"The Not So Short Introduction to LaTeX 2ε.\" (PDF)" %}} Version 5.01. April 06, 2011.
 
-Reckdahl, Keith. ["Using Imported Graphics in LaTeX and pdfLaTeX." (PDF)](http://tobi.oetiker.ch/lshort/lshort.pdf) Version 3.0.1. January 12, 2006.
+Reckdahl, Keith. {{% resource_link "2b1c16f4-dc67-4039-b8fe-f8147f6b9dac" "\"Using Imported Graphics in LaTeX and pdfLaTeX.\" (PDF)" %}} Version 3.0.1. January 12, 2006.
 
 Writing Workshop
 ----------------

@@ -3,8 +3,6 @@ content_type: page
 description: In this section, Prof. Haynes Miller and Susan Ruff describe the team-based
   nature of the course as well as a workshop designed to guide students toward successful
   collaboration.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Teamwork

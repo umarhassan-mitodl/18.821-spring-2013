@@ -4,8 +4,6 @@ description: 'Background image of writing workshop video. '
 file: /courses/18-821-project-laboratory-in-mathematics-spring-2013/3d8eec16444bb2d81385c40efac4e962_MIT18_821S13_wrtg_wksp_bg.jpg
 file_size: 139087
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
