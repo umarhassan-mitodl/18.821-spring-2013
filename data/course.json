@@ -24,7 +24,7 @@
     "website": "18-821-project-laboratory-in-mathematics-spring-2013"
   },
   "course_title": "Project Laboratory in Mathematics",
-  "hide_download": true,
+  "hide_download": false,
   "course_description": "_Project Laboratory in Mathematics_ is a course designed to give students a sense of what it's like to do mathematical research. In teams, students explore puzzling and complex mathematical situations, search for regularities, and attempt to explain them mathematically. Students share their results through professional-style papers and presentations.\n\nThis course site was created specifically for educators interested in offering students a taste of mathematical research. This site features extensive description and commentary from the instructors about why the course was created and how it operates.\n",
   "department_numbers": [
     "18"
@@ -35,7 +35,6 @@
     "content": "1c1b8ed8-1b5d-670f-5b3d-272ef75522bd",
     "website": "18-821-project-laboratory-in-mathematics-spring-2013"
   },
-  "hide_download_original": false,
   "learning_resource_types": [
     "Lecture Videos",
     "Other Video",
